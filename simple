@@ -1,0 +1,11 @@
+pragma solidity ^0.4.0;
+
+/// @title valididatie contract levenstestament.
+contract Levenstestament{
+        
+        string public name = "John";
+        string public Idin = "John";    
+        string public levenstestamentShacode = "e1ea589612b5fc2804b33fb257bb2f30a8b5725964cd89514172e5d1f94015cd";
+        string public id = "001";
+    }   
+
